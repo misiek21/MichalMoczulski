@@ -1,3 +1,3 @@
 # 571
 
-Gotuj z Moczulski https://github.com/misiek21/MichalMoczulski 
+Gotuj z Moczulskim https://github.com/misiek21/MichalMoczulski 
